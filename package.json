@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "git@github.com:bfg-s/js-comcode.git",
   "author": "Xsaven",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@prettier/plugin-php": "^0.19.2",
+    "lodash": "^4.17.21",
+    "php-parser": "^3.2.2",
+    "pluralize": "^8.0.0",
+    "prettier": "^3.4.2"
+  }
 }
