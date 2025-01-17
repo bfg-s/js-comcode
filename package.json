@@ -1,0 +1,9 @@
+{
+  "name": "bfg-js-comcode",
+  "version": "1.0.0",
+  "description": "Builder of php",
+  "main": "index.js",
+  "repository": "git@github.com:bfg-s/js-comcode.git",
+  "author": "Xsaven",
+  "license": "MIT"
+}
